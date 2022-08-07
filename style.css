@@ -1,0 +1,136 @@
+  body{
+    background-color: lightskyblue;
+    font-size: 100%;
+    text-align: center;
+  }
+
+#Mech-img{
+  margin-top: 10px;
+margin-left: 10px;
+margin-right: 20px;
+  width: 150px;
+  float: left;
+}
+#Soft-img{
+  width: 150px;
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-right: 10px;
+ float: right;
+}
+
+#Mech-img:hover{
+  background-color: gray;
+
+}
+#Soft-img:hover{
+background-color: gray;
+}
+h3:hover{
+  color: gold;
+}
+h3{
+  background-color: #5A8F7B;
+  color: #D4F6CC;
+  line-height: 2;
+}
+h4{
+  background-color: #C8B6E2;
+font-size: 2rem;
+line-height: 2;
+}
+span{
+  text-decoration: underline;
+  color:green;
+  font-weight: bold;
+}
+.me{
+background-color: #DAE2B6;
+padding-bottom: 20px;
+padding-right: 20px;
+width: 50%;
+margin: 100px auto;
+text-align: left;
+line-height: 2;
+border-radius: 10%;
+
+}
+.so{
+  background-color: #66BFBF;
+  padding-bottom: 20px;
+width: 50%;
+margin: 100px auto ;
+text-align: left;
+line-height: 2;
+padding-left: 20px;
+border-radius: 20px 30px;
+}
+.m{
+  background-color: #513252;
+  color: white;
+  width: 25%;
+  display: inline-block;
+}
+.s{
+  background-color: #355764;
+  color: white;
+}
+.color{
+  width: 100%;
+  height: 300px;
+  position: relative;
+
+}
+.red{
+text-align: center;
+background-color: red;
+color: white;
+width:150px;
+height: 50px;
+position: absolute;
+right: 150px;
+border-radius: 50%;
+}
+.blue{
+text-align: center;
+  background-color: blue;
+  color: white;
+  width: 150px;
+  height: 50px;
+  position: fixed;
+  right: 158px;
+  bottom:  180px;
+  font-family: "Lucida Handwriting",cursive;
+}
+
+.green{
+  text-align: center;
+  background-color: green;
+  color: white;
+  width: 150px;
+  height: 50px;
+  position: absolute;
+  right: 150px;
+  top: 160px;
+  font-family: Papyrus,fantasy;
+  border-radius: 20px 10px;
+}
+.web{
+  padding: 25px;
+  width: 25%;
+  background-color: #31087B;
+  color: white;
+
+  font-family: "Times New Roman",serif;
+ border-radius: 25%;
+ margin: 20px auto;
+
+}
+.d1{
+  text-align: center;
+}
+
+.code-description{
+  clear: left;
+  margin-left: 10px;
+}
